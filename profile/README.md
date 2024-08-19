@@ -1,5 +1,3 @@
-# Cabin
-
 [Cabin](https://cabin.city) is building a network city of modern villages. Together, 
 we are growing intergenerational neighborhoods: places where we know our neighbors and 
 raise kids together. Cabin neighborhoods are located in walkable pockets of family-friendly 
